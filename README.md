@@ -16,3 +16,7 @@ A proposta foi criar um site que permita o usuário adicionar playlists á uma l
 
 # Página que adiciona música nas Playlist
 <li>Mostrar inputs controlados de nome, artista e url -Adicionar a música na playlist</li>
+
+# Link do Projeto
+
+https://gaudy-skirt.surge.sh/
