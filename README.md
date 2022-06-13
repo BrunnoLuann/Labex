@@ -1,10 +1,25 @@
 
 # Objetivo do Projeto
 
+Criar um projeto de um site de viagem, para o espaço.
 
-# Link do Projeto
-https://lumpy-sugar.surge.sh/
 
+# Tecnologias do projeto
+
+<li>Requisições de API's</li>
+<li>Componentes funcionais</li>
+<li>hooks</li>
+<li>Global states</li>
+<li>Router</li>
+<li>Styled-components</li>
+<li>material MUI</li>
+
+## 🌎 Como acessar o projeto
+
+[Acesse o projeto](https://lumpy-sugar.surge.sh/)
+
+
+### Na área de login, usar os dados abaixo.
 bruno-luan@labenu.com.br
 123456
 
